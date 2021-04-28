@@ -23,7 +23,7 @@ This was the fourth homework project on the [Superhi Foundation](https://superhi
 * CSS3
 
 ## Demo
-[Live Demo](guybroadhurst.github.io/nasa/)
+[Live Demo](https://guybroadhurst.github.io/nasa/)
 
 ## Features
 List of features:
